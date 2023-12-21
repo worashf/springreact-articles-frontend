@@ -2,7 +2,7 @@
 # SpringReact Articles Frontend
 
 This repository contains the frontend implementation for the SpringReact Articles project. It is built using React and Redux to provide a user interface for managing and displaying articles.
-This repo manages all the necessary to run the API needed for the project [SpringReact Articles Backend](https://github.com/worashf/springreact-articles-backend).
+To run the API needed for the project [SpringReact Articles Backend](https://github.com/worashf/springreact-articles-backend).
 
 ## Features
 
