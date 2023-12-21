@@ -25,6 +25,23 @@ To run the project locally, follow these steps:
 2. Install dependencies using `npm install`
 3. Start the development server with `npm start`
 
+##   List Articles
+![screenshots](screenshots/list_article.png)
+
+##  Create Article
+![screenshots](screenshots/add_article.png)
+
+##  Article Detail
+![screenshots](screenshots/article_dtail.png)
+
+## 1.5 Payment page
+![screenshot](screenshot/payment.PNG)
+
+## 1.6  User profile page
+![screenshot](screenshot/profile.PNG)
+
+
+
 ## Contributing
 
 Contributions are welcome! If you want to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
