@@ -34,11 +34,9 @@ To run the project locally, follow these steps:
 ##  Article Detail
 ![screenshots](screenshots/article_dtail.png)
 
-## 1.5 Payment page
-![screenshot](screenshot/payment.PNG)
+## Authors
+![screenshots](screenshots/authors.png)
 
-## 1.6  User profile page
-![screenshot](screenshot/profile.PNG)
 
 
 
